@@ -1,11 +1,12 @@
 echo off
+chcp 932
 cls
-echo "ƒ|[ƒg8787(TCP&UDP)‚ðŠJ•ú‚µ‚Ü‚·B"
-start UPnPCJ.exe /open 8787 TCP 8787 Ž©“®2
-start UPnPCJ.exe /open 8787 UDP 8787 Ž©“®2
+echo "ãƒãƒ¼ãƒˆ8787(TCP&UDP)ã‚’é–‹æ”¾ã—ã¾ã™ã€‚"
+start UPnPCJ.exe /open 8787 TCP 8787 è‡ªå‹•2
+start UPnPCJ.exe /open 8787 UDP 8787 è‡ªå‹•2
 
 echo;
-echo ƒ|[ƒg‚ð•Â‚¶‚é‚½‚ß‚É‚Í‰½‚©ƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B
+echo ãƒãƒ¼ãƒˆã‚’é–‰ã˜ã‚‹ãŸã‚ã«ã¯ä½•ã‹ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚
 echo;
 pause
 
